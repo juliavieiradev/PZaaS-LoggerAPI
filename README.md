@@ -139,7 +139,7 @@ x-pedido-id: <id do pedido enviado pelo API Gateway>
 {
   "eventId": "7f3a91c2-1234-4567-8901-abcdef123456",
   "timestamp": "2026-09-02T20:50:31Z",
-  "service": "pagamento",
+  "service": "4",
   "action": "PROCESS\_PAYMENT",
   "status": "FAILED",
   "level": "ERROR",
